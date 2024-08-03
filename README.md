@@ -1,2 +1,0 @@
-# MitogregoPG
-MitogregoPG
